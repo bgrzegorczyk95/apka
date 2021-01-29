@@ -1,0 +1,13 @@
+.MuiBottomNavigation-root {
+  width: 500px !important;
+  color: '#ffffff' !important;
+  background-color: transparent !important;
+};
+
+a:-webkit-any-link {
+  text-decoration: none !important;
+}
+
+a {
+  text-decoration: none !important;
+}
