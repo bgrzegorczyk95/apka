@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b62d337.chunk.css",
-    "main.js": "/static/js/main.65ee49af.chunk.js",
-    "main.js.map": "/static/js/main.65ee49af.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8673ebb4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8673ebb4.js.map",
-    "static/js/2.89ce033a.chunk.js": "/static/js/2.89ce033a.chunk.js",
-    "static/js/2.89ce033a.chunk.js.map": "/static/js/2.89ce033a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9b62d337.chunk.css.map": "/static/css/main.9b62d337.chunk.css.map",
-    "static/js/2.89ce033a.chunk.js.LICENSE.txt": "/static/js/2.89ce033a.chunk.js.LICENSE.txt"
+    "main.css": "/apka/static/css/main.9b62d337.chunk.css",
+    "main.js": "/apka/static/js/main.65ee49af.chunk.js",
+    "main.js.map": "/apka/static/js/main.65ee49af.chunk.js.map",
+    "runtime-main.js": "/apka/static/js/runtime-main.cfc5c906.js",
+    "runtime-main.js.map": "/apka/static/js/runtime-main.cfc5c906.js.map",
+    "static/js/2.89ce033a.chunk.js": "/apka/static/js/2.89ce033a.chunk.js",
+    "static/js/2.89ce033a.chunk.js.map": "/apka/static/js/2.89ce033a.chunk.js.map",
+    "index.html": "/apka/index.html",
+    "static/css/main.9b62d337.chunk.css.map": "/apka/static/css/main.9b62d337.chunk.css.map",
+    "static/js/2.89ce033a.chunk.js.LICENSE.txt": "/apka/static/js/2.89ce033a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8673ebb4.js",
+    "static/js/runtime-main.cfc5c906.js",
     "static/js/2.89ce033a.chunk.js",
     "static/css/main.9b62d337.chunk.css",
     "static/js/main.65ee49af.chunk.js"
